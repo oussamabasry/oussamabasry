@@ -23,7 +23,7 @@ Motivated, I know how to adapt, I have a sense of responsibility and organizatio
 [![Angular badge](https://img.shields.io/badge/-Angular-c40010?style=flat-square&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/)
 [![ExpressJS badge](https://img.shields.io/badge/-ExpressJS-ebc310?style=flat-square&logo=express&logoColor=white&link=https://expressjs.com/fr/)](https://expressjs.com/fr/)
 [![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/docs/)](https://www.typescriptlang.org/docs/)
-[![MongoDB badge](https://img.shields.io/badge/-TypeScript-0a7a2c?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
+[![MongoDB badge](https://img.shields.io/badge/-MongoDB-0a7a2c?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 
 ---
 # LinkedIn Profil
